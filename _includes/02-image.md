@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Me in Rome :)](/Users/michalciebielski/Desktop/Photo_1.jpeg)
