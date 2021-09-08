@@ -1,0 +1,1 @@
+My background is in **Mechanical Engineering** and **Industrial Automation** both of which geared me towards *hardware development* for new products. Now I am transitioning towards **robotics** through a masters program in Munich where I will compliment my knowledge with a new layer of __**software**__ skills.
