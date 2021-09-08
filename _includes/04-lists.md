@@ -1,1 +1,14 @@
-Replace this with a list of your favorite things.
+* Sports
+  * Swimming
+  * MMA (To Watch 😉)
+  * Golf on a cool fall day
+* Food
+  * Amatricana
+  * Sausage
+  * Tomato Soup
+* TV Series
+  * Westworld
+  * Alone
+* Books
+  * Faserland
+  * Unrast
