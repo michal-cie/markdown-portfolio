@@ -1,1 +1,1 @@
-![Me in Rome :)](/Users/michalciebielski/Desktop/Photo_1.jpeg)
+![Me in Rome](https://github.com/[michal-cie]/[markdown-portfolio]/blob/[michal-cie-patch-1]/Photo_1.jpeg?raw=true)
